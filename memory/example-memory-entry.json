@@ -1,0 +1,15 @@
+
+---
+
+### 📁 `memory/example-memory-entry.json`
+
+```json
+{
+  "id": "4e5b8cde-5d78-4a4d-b4b0-1396d8fa3ed5",
+  "agent": "arthur",
+  "timestamp": "2025-07-20T18:15:00Z",
+  "content": "Established initial repo structure for AI Collaboration Infrastructure project.",
+  "tags": ["init", "repo", "setup"],
+  "hash": "d41d8cd98f00b204e9800998ecf8427e",
+  "version": "v0.1.0"
+}
